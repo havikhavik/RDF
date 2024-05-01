@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/73">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-02-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">143.1</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/42">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">128.1</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/65">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-06-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">111.5</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/15">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-04-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">163.9</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/34">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">132.4</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/52">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-05-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">142.3</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/98">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-03-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">138.7</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/76">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-05-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">128.5</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/47">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-12-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">132.3</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/2">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-03-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">171.9</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/38">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-03-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">134.0</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/43">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">127.6</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/51">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">144.5</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/36">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">134.7</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/57">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-10-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">129.4</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/64">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-05-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">111.9</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/13">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">162.5</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/20">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-09-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">150.6</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/86">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">122.8</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/35">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-12-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">133.4</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/61">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-02-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">115.1</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/67">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-08-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">104.7</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/70">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-11-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">100.0</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/41">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">129.7</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/93">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">127.4</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/0">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-01-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">182.5</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/5">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-06-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">163.8</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/87">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">119.1</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/9">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-10-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">165.4</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/24">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-01-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">143.2</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/45">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-10-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">131.2</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/78">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-07-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">131.0</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/96">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">132.7</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/30">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-07-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">131.9</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/79">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-08-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">131.8</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/16">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-05-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">161.6</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/10">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-11-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">162.5</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/27">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-04-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">139.6</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/39">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-04-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">133.7</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/81">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-10-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">130.3</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/12">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-01-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">160.7</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/75">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">135.5</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/23">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">143.1</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/68">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-09-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">101.1</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/11">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-12-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">160.2</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/26">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-03-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">141.4</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/83">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-12-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">125.6</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/85">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">125.8</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/17">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">160.6</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/48">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-01-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">140.9</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/90">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-07-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">129.5</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/58">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">125.7</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/19">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-08-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">157.7</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/33">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-10-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">133.6</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/82">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">125.1</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/32">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-09-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">133.0</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/28">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-05-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">134.5</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/59">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">122.5</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/8">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-09-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">165.6</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/97">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">136.2</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/7">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-08-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">165.2</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/60">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-01-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">119.1</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/40">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-05-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">132.6</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/89">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-06-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">122.1</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/53">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">140.6</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/22">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-11-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">146.9</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/91">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">131.3</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/4">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-05-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">166.1</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/25">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">147.1</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/74">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-03-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">143.7</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/56">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">133.2</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/94">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">125.4</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/66">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-07-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">108.4</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/18">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-07-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">160.4</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/1">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">174.2</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/46">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-11-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">129.9</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/63">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-04-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">111.5</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/69">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-10-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">101.5</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/49">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-02-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">146.8</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/84">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">128.4</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/77">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-06-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">126.1</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/21">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">148.2</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/80">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-09-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">132.2</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/55">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-08-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">136.9</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/88">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120.7</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/71">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">112.5</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/31">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-08-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">131.4</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/50">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-03-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">145.1</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/54">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-07-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">139.4</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/6">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-07-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">165.0</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/37">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">135.5</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/44">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-09-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">129.8</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/92">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">128.6</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/29">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-06-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">132.1</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/14">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-03-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">162.6</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/99">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">131.2</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/72">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">134.5</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/3">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-04-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">171.6</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/95">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-12-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">123.7</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://datos.gob.ar/series/api/series/?ids=tcrse_2weZeH/62">
+    <ns1:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-03-01T00:00:00</ns1:fecha>
+    <ns1:produccion_y_procesamiento_de_alimentos rdf:datatype="http://www.w3.org/2001/XMLSchema#double">111.4</ns1:produccion_y_procesamiento_de_alimentos>
+  </rdf:Description>
+</rdf:RDF>
